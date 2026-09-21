@@ -1,0 +1,4 @@
+contract,customers,avg_monthly_charges,churn_rate_pct
+Month-to-Month,3491,3245.36,52.13
+One Year,1610,3165.22,47.14
+Two Year,899,3166.42,45.72

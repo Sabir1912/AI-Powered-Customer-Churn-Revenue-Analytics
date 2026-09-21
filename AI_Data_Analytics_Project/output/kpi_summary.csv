@@ -1,0 +1,11 @@
+KPI,Value
+Total Customers,6000.0
+Churned Customers,2990.0
+Churn Rate %,49.83
+Average Monthly Charges,3212.03
+Annual Revenue at Risk,146011899.96
+Model Accuracy,0.9592
+Model Precision,0.9645
+Model Recall,0.9532
+Model F1 Score,0.9588
+Model ROC-AUC,0.995

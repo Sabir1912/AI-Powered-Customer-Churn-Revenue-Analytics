@@ -1,0 +1,28 @@
+AI-ASSISTED BUSINESS INSIGHTS
+==========================================
+
+1. Overall churn rate: 49.83%.
+2. 2,885 customers are classified as HIGH churn risk.
+3. Estimated annual customer value associated with the high-risk group: 142,277,065.56.
+
+4. Strongest model signals by absolute coefficient:
+   - num__monthly_charges
+   - cat__contract_Month-to-Month
+   - cat__contract_Two Year
+   - cat__payment_method_Net Banking
+   - num__tenure_months
+
+5. Recommended analytical actions:
+   - Prioritize high-risk customers for retention outreach.
+   - Investigate contract type and payment behavior among high-risk users.
+   - Use support-ticket volume as a signal for proactive service recovery.
+   - Monitor model performance on new customer data before operational deployment.
+
+6. Model validation:
+   Accuracy: 0.959
+   Precision: 0.964
+   Recall: 0.953
+   F1 Score: 0.959
+   ROC-AUC: 0.995
+
+Note: This is a synthetic portfolio dataset. The model is for demonstration and should not be treated as a production decision system without validation, monitoring and fairness checks.
